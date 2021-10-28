@@ -57,9 +57,9 @@ Use Github Desktop to clone the class repository. This will be demonstrated in c
 
 Now clone this repository:
 
-https://github.com/benjaminbacon/ComputerGraphics2020
+https://github.com/benjaminbacon/ComputerGraphics2021
 
-The repository will clone to your `~/Documents/GitHub/ComputerGraphics2020` directory.
+The repository will clone to your `~/Documents/GitHub/ComputerGraphics2021` directory.
 
 ### Demonstration
 
