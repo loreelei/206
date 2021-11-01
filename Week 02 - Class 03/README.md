@@ -256,6 +256,7 @@ ofRotate(ofRadToDeg(rotation));     // ofRotate() takes angle in degrees
 ### Reading
 
 1. **Read chapters in ofBook**
+    - [Graphics](http://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
     - [Animation](http://openframeworks.cc/ofBook/chapters/animation.html)   
     - [Simulation](http://openframeworks.cc/ofBook/chapters/animation.html#simulation)
 
